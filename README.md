@@ -5,7 +5,7 @@
 
 ###
 
-Atividades para o Instituto PROA utilizando o React para a criação de um To do List, usando como inspiração um tutorial do YouTube indicado pelo professor Jailson Costa dos Santos
+Atividade para o Instituto PROA utilizando o React para a criação de um To do List, usando como inspiração um tutorial do YouTube indicado pelo professor Jailson Costa dos Santos
 ###
 
 🌼Criadoras:
